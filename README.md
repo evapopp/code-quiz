@@ -7,8 +7,8 @@ Create an application which deploys an interactive and timed quiz. When the user
 HTML, CSS, Javascript
 
 ## Links
-* Deployed Site
-* Repo
+* Deployed Site: https://github.com/evapopp/code-quiz
+* Repo: https://github.com/evapopp/code-quiz
 
 ## Page Preview
 ...coming upon completion
