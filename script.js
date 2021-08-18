@@ -35,29 +35,29 @@ const quiz = [
         correctAnswer: "c"
     },
     {
-        question:"what's your name?",
+        question:"?",
         answers: {
-            a: "mike",
-            b: "john",
-            c: "bill",
+            a: "",
+            b: "",
+            c: "",
         },
         correctAnswer: "b"
     },
     {
-        question:"what's your name?",
+        question:"",
         answers: {
-            a: "mike",
-            b: "john",
-            c: "bill",
+            a: "",
+            b: "",
+            c: "",
         },
         correctAnswer: "b"
     },
     {
-        question:"what's your name?",
+        question:"",
         answers: {
-            a: "mike",
-            b: "john",
-            c: "bill",
+            a: "",
+            b: "",
+            c: "",
         },
         correctAnswer: "b"
     }
