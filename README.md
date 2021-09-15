@@ -11,4 +11,5 @@ HTML, CSS, Javascript
 * Repo: https://github.com/evapopp/code-quiz
 
 ## Page Preview
-...coming upon completion
+![home page](/images/quiz.png)
+![questions page](/images/quiz2.png)
